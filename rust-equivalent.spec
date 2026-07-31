@@ -7,7 +7,7 @@
 %global crate equivalent
 
 Name:           rust-equivalent
-Version:        1.0.1
+Version:        1.0.2
 Release:        1
 Summary:        Traits for key comparison in maps
 Group:          Development/Rust
